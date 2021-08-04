@@ -1,7 +1,9 @@
 # Jihed Mastouri
 
-<img align="right" style="border-radius:2px;width:30%;height:300px;object-fit:cover; object-position:50% 0;margin-left:20px;" src="me.jpg" alt="Me">
+<img width="40%" align="right" src="me.jpg" alt="Me">
 
+
+<samp>
 
 Hello there,
 - My name is **Jihed Mastouri**, but you can call me **MJ**. 
@@ -133,3 +135,5 @@ Hello there,
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true" alt="Public stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Most used languages"/>
 </details>
+
+</samp>

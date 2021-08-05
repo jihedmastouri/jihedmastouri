@@ -6,10 +6,10 @@
 
 
 Hello there,
-- My name is **Jihed Mastouri**, but you can call me **MJ**. 
-- I am a **computer engineering student** and a **web developer**. 
-- I am passionate about computer science as a whole. I spend most of my time on the computer, building and reading about things. Otherwise, I am either hanging out with my friends or with my **camera**. 
-- A childhood of watching movies and playing video games has taught me to seek out **adventure**, so do not hesitate to reach out to me if you have a **challenge**. 
+- 👋🏽 My name is **Jihed Mastouri**, but you can call me **MJ**. 
+- 💻 I am a **computer engineering student** and a **web developer**. 
+- 🛠️ I am passionate about computer science as a whole. I spend most of my time on the computer, building and reading about things. Otherwise, I am either hanging out with my friends or with my **camera** 📷. 
+- ⚔️ A childhood of watching movies and playing video games has taught me to seek out **adventure**, so do not hesitate to reach out to me if you have a **challenge**. 
 
 **Welcome to my GITHUB!**
 

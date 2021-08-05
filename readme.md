@@ -94,8 +94,6 @@ Hello there,
 | [Free Code Camp]() | FreeCodeCamp Certifications' Projects: Web Design, JS, React, Node/Express |
 | [Algorithms and Data Structures]() | Problems I practiced in CodeForces, Leetcode and more... (Cpp / Js / python) |
 
-<br>
-
 ### Web
 
 | Repos | Description |
@@ -110,8 +108,6 @@ Hello there,
 | [Game Station]() | Some web based games using Vue2 |
 | [Job Hunter]() | Job hunting platform using Django |
 | [Expenses Tracker]() | Expenses Tracker using Flask|
-
-<br>
 
 ### Automation
 | Repos | Description |
@@ -139,8 +135,8 @@ Hello there,
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true&bg_color=1D1E1F&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" alt="Most used languages"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true&bg_color=1D1E1F&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" alt="Most used languages"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&layout=compact&langs_count=7&hide_border=true&hide=python,html,css&text_color=fff&icon_color=fff&include_all_commits=true&bg_color=1D1E1F&title_color=fff" alt="Public stats" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&layout=compact&langs_count=7&hide_border=true&hide=python,html,css&text_color=fff&icon_color=fff&include_all_commits=true&bg_color=1D1E1F&title_color=fff" alt="Public stats" />
 </details>
 </samp>

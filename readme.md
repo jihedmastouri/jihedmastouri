@@ -2,9 +2,9 @@
   
 # Jihed Mastouri - Full Stack Web Developer
 
-<img width="40%" align="right" src="me.jpg" alt="Me">
+<img width="50%" align="right" src="me.jpg" alt="Me">
 
-<p width="50%">
+<p width="40%">
 
 Hello there,
 - My name is **Jihed Mastouri**, but you can call me **MJ**. 
@@ -29,7 +29,7 @@ Hello there,
         <img src="https://img.shields.io/badge/-Gatsby-639?style=flat-square&logo=Gatsby&logoColor=white" alt="Gatsby">
         <img src="https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white" alt="Nextjs"> 
         <img src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/-TailwindC%20CSS-54C5E1?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-44a9c2?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       </td>
@@ -139,8 +139,8 @@ Hello there,
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true" alt="Public stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Most used languages"/>
-</details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true&bg_color=1D1E1F&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" alt="Most used languages"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&layout=compact&langs_count=7&hide_border=true&hide=python,html,css&text_color=fff&icon_color=fff&include_all_commits=true&bg_color=1D1E1F&title_color=fff" alt="Public stats" />
+</details>
 </samp>

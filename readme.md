@@ -1,4 +1,4 @@
-# Jihed Mastouri, FULLSTACK WEB DEVELOPER
+# Jihed Mastouri | FullStack Web Developer
 
 <img width="40%" align="right" src="me.jpg" alt="Me">
 

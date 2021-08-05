@@ -4,7 +4,7 @@
 
 
 <samp>
-<div width="60%">
+<p width="50%">
 
 Hello there,
 - My name is **Jihed Mastouri**, but you can call me **MJ**. 
@@ -14,7 +14,7 @@ Hello there,
 
 **Welcome to my GITHUB!**
   
-</div>
+</p>
 
 ## Technologies
 
@@ -116,7 +116,6 @@ Hello there,
 | [scraper]() | python |
 
 </details>
-<br>
 
 ## Where You Can Find Me
 

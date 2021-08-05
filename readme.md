@@ -2,9 +2,8 @@
   
 # Jihed Mastouri - Full Stack Web Developer
 
-<img width="50%" align="right" src="me.jpg" alt="Me">
+<!--img width="50%" align="right" src="me.jpg" alt="Me"-->
 
-<p width="40%">
 
 Hello there,
 - My name is **Jihed Mastouri**, but you can call me **MJ**. 
@@ -13,12 +12,11 @@ Hello there,
 - A childhood of watching movies and playing video games has taught me to seek out **adventure**, so do not hesitate to reach out to me if you have a **challenge**. 
 
 **Welcome to my GITHUB!**
-  
-</p>
+
 
 ## Technologies
 
-<table>
+<table width="100%">
   <tr>
       <td> I use Frequently  </td> 
       <td>
@@ -134,9 +132,10 @@ Hello there,
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
+<p align="center">
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true&bg_color=1D1E1F&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" alt="Most used languages"/>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jihedmastouri&show_icons=true&locale=en&hide_border=true&bg_color=1D1E1F&title_color=fff&text_color=fff&icon_color=fff&count_private=true&include_all_commits=true" alt="Most used languages"/>
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&layout=compact&langs_count=7&hide_border=true&hide=python,html,css&text_color=fff&icon_color=fff&include_all_commits=true&bg_color=1D1E1F&title_color=fff" alt="Public stats" />
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihedmastouri&show_icons=true&layout=compact&langs_count=7&hide_border=true&hide=python,html,css&text_color=fff&icon_color=fff&include_all_commits=true&bg_color=1D1E1F&title_color=fff" alt="Public stats" />
+<p align="center">
 </details>
 </samp>

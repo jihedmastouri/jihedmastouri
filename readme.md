@@ -4,6 +4,7 @@
 
 
 <samp>
+<div width="60%">
 
 Hello there,
 - My name is **Jihed Mastouri**, but you can call me **MJ**. 
@@ -12,8 +13,8 @@ Hello there,
 - A childhood of watching movies and playing video games has taught me to seek out **adventure**, so do not hesitate to reach out to me if you have a **challenge**. 
 
 **Welcome to my GITHUB!**
-
-<br>
+  
+</div>
 
 ## Technologies
 
@@ -107,7 +108,7 @@ Hello there,
 
 <br>
 
-### Automatization
+### Automation
 | Repos | Description |
 :---- | ----:
 | [Taking Notes through Terminal]() | shell, python, firebase |

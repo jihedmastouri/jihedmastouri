@@ -1,4 +1,4 @@
-# Jihed Mastouri
+# Jihed Mastouri, FULLSTACK WEB DEVELOPER
 
 <img width="40%" align="right" src="me.jpg" alt="Me">
 
@@ -128,6 +128,8 @@ Hello there,
   [![HACKERRANK](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jihedmastouri)&nbsp;&nbsp;
   [![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](#)&nbsp;&nbsp;
   [![FREE CODE CAMP](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/jihedmastouri)
+
+---
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>

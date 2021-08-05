@@ -22,18 +22,16 @@ Hello there,
   <tr>
       <td> I use Frequently  </td> 
       <td>
-        <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Nodejs">
         <img src="https://img.shields.io/badge/-Expressjs-000?style=flat-square&logo=express&logoColor=white" alt="express">
         <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nestjs"> 
         <img src="https://img.shields.io/badge/-Gatsby-639?style=flat-square&logo=Gatsby&logoColor=white" alt="Gatsby">
         <img src="https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white" alt="Nextjs"> 
-        <img src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vue.js&logoColor=white" alt="Vue">
-        <img src="https://img.shields.io/badge/-Tailwind-54C5E1?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
-        <img src="https://img.shields.io/badge/-Vite-5468ff?style=flat-square&logo=vite&logoColor=white" alt="vite"> 
-        <img src="https://img.shields.io/badge/-GraphQl-d64292?style=flat-square&logo=graphQL&logoColor=white" alt="graphql">
+        <img src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+        <img src="https://img.shields.io/badge/-TailwindC%20CSS-54C5E1?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Typescript">
-        <img src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       </td>
     </tr>
     <tr>
@@ -41,20 +39,27 @@ Hello there,
       <td>
         <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white" alt="Django">
         <img src="https://img.shields.io/badge/-Flask-000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/-C%20language-0d8bf2?style=flat-square&logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/-C%2b%2b-0d8bf2?style=flat-square&logo=c%2b%2b&logoColor=white" alt="Cpp">
-        <img src="https://img.shields.io/badge/-wordpress-007ACC?style=flat-square&logo=wordpress&logoColor=white" alt="wordpress">
-        <img src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" alt="php">
+        <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/-GraphQl-E10098?style=flat-square&logo=graphQL&logoColor=white" alt="graphql">
+        <img src="https://img.shields.io/badge/-Vite-5468ff?style=flat-square&logo=vite&logoColor=white" alt="vite"> 
+      </td>
+    </tr> 
+      <td>It's been Along time</td>
+      <td>
+        <img src="https://img.shields.io/badge/-C%20language-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+        <img src="https://img.shields.io/badge/-C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" alt="Cpp">
+        <img src="https://img.shields.io/badge/-wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="wordpress">
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
         <img src="https://img.shields.io/badge/-Java-477C9C?style=flat-square&logo=java&logoColor=white" alt="java">
         <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
         <img src="https://img.shields.io/badge/-.Net-0D5F9A?style=flat-square&logo=.Net&logoColor=white" alt=".Net">
       </td>
     </tr> 
-      <td>DataBases I Have Used </td>
+      <td>DataBases I've Used </td>
       <td>
         <img src="https://img.shields.io/badge/-MS%20SQL%20Server-465780?style=flat-square&logo=MicrosoftSQLServer&logoColor=white" alt="Microsoft SQL Server">
-        <img src="https://img.shields.io/badge/-MySQL-005E86?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/-Postgresql-305D8D?style=flat-square&logo=Postgresql&logoColor=white" alt="Postgresql">
+        <img src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/-Postgresql-316192?style=flat-square&logo=Postgresql&logoColor=white" alt="Postgresql">
         <img src="https://img.shields.io/badge/-Oracle-F7131C?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
         <img src="https://img.shields.io/badge/-SQLite-0F7EC8?style=flat-square&logo=SQLite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -63,15 +68,15 @@ Hello there,
     <tr>
       <td> OS </td>
       <td> 
-        <img src="https://img.shields.io/badge/-Windows-00AEE9?style=flat-square&logo=Windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows">
         <img src="https://img.shields.io/badge/-manjaro-33B959?style=flat-square&logo=manjaro&logoColor=white" alt="manjaro">
-        <img src="https://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu">
+        <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu">
       </td>
     </tr>
     <tr>
       <td>Text Editor / IDE </td>
       <td>
-        <img src="https://img.shields.io/badge/-VSCode-23A3EA?style=flat-square&logo=VisualStudioCode&logoColor=white" alt="VSCode">
+        <img src="https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=VisualStudioCode&logoColor=white" alt="VSCode">
         <img src="https://img.shields.io/badge/-Vim-019331?style=flat-square&logo=Vim&logoColor=white" alt="Vim">
         <img src="https://img.shields.io/badge/-IntelliJ-000?style=flat-square&logo=IntelliJIDEA&logoColor=white" alt="intellij"> 
       </td>

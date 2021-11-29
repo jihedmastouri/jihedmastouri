@@ -1,16 +1,13 @@
 <samp>
   
-# Jihed Mastouri 
+Hello there, It's *MJ*! 
 
-### Hello there,
 - 👋🏽 My name is **Jihed Mastouri**. But, you can call me **MJ**! 
 - 💻 I am a **computer engineering student** and a **web developer**. 
 - 🛠️ I spend most of my time on the computer; playing, reading and building stuff.
 - 📷 Also I do **Amateur Photography**. 
 - ⚔️ A childhood of watching movies and playing video games had taught me to seek out **adventure**, so do not hesitate to reach out with a new **challenge**.
 ### Welcome to my GITHUB!
-
-<br>
 
 ## Technologies
 

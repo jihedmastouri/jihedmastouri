@@ -1,4 +1,4 @@
-## 👋🏽 The name is Jihed Mastouri. But you can call me __*MJ!*__
+### 👋🏽 The name is Jihed Mastouri. But you can call me __*MJ!*__
 
 
 - 💻 I am a **Software Engineering Student** and a **Web Developer**.
@@ -6,14 +6,15 @@
 - 📷 If I am not on my pc, I would be outside; capturing the moments with my camera.
 - ⚔️ A passion for video games, anime and cinema taught me to seek adventure.
 
-
-## Main Technologies:
-![](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,expressjs,bash,py,flask,dotnet)
-<!-- adding next, nest, go -->
-
-
-![](https://skillicons.dev/icons?i=mongodb,postgres,graphql,linux,git,vscode,vim)
-<!-- docker,kubernetes -->
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,go,bash,nodejs,postgres,redis,docker" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,next,astro&theme=light" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,git,vim" />
+</p>
 
 
 <!--
@@ -25,7 +26,7 @@
 </details> -->
 
 
-## Where You Can Find Me:
+#### Where You Can Find Me:
 
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihed.mastouri@esprit.tn)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jihed_mastouri)

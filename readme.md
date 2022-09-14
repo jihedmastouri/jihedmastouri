@@ -6,13 +6,31 @@
 - 📷 If I am not on my pc, I would be outside; capturing the moments with my camera.
 - ⚔️ A passion for video games, anime and cinema taught me to seek adventure.
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,bash,nodejs,postgres,redis,docker" />
-    <img src="https://skillicons.dev/icons?i=ts,react,vite,next&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,git,vim" />
-</p>
+<hr/>
 
-<br/>
+<div align="center">
+
+![](https://icongr.am/simple/python.svg?size=35&colored=true)
+![](https://icongr.am/simple/go.svg?size=35&colored=true)
+![](https://icongr.am/simple/csharp.svg?size=35&colored=true)
+![](https://icongr.am/simple/nodejs.svg?size=35&colored=true)
+![](https://icongr.am/simple/typescript.svg?size=35&colored=true)
+![](https://icongr.am/simple/gnubash.svg?size=35&colored=true)
+![](https://icongr.am/simple/react.svg?size=35&colored=true)
+![](https://icongr.am/simple/nextjs.svg?size=35&colored=true)
+![](https://icongr.am/simple/tailwindcss.svg?size=35&colored=true)
+![](https://icongr.am/simple/vitejs.svg?size=35&colored=true)
+![](https://icongr.am/simple/hugo.svg?size=35&colored=true)
+![](https://icongr.am/simple/astro.svg?size=35&colored=true)
+![](https://icongr.am/simple/linux.svg?size=35&colored=true)
+![](https://icongr.am/simple/git.svg?size=35&colored=true)
+![](https://icongr.am/simple/neovim.svg?size=35&colored=true)
+![](https://icongr.am/simple/docker.svg?size=35&colored=true)
+![](https://icongr.am/simple/postgresql.svg?size=35&colored=true)
+![](https://icongr.am/simple/redis.svg?size=35&colored=true)
+![](https://icongr.am/simple/mongodb.svg?size=35&colored=true)
+![](https://icongr.am/simple/ethereum.svg?size=35&colored=true)
+
 
 #### Where You Can Find Me:
 
@@ -28,3 +46,6 @@
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jihedmastouri&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihedmastouri&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=vim+script)</a>
 </details>
+
+
+</div>

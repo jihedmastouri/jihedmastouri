@@ -1,37 +1,34 @@
-# Call me __*MJ!*__
+# __*MJ*__ - because __*JM*__ is lame
 
-**`Software Engineering Student`** **`Web Developer`**
+**`Software Engineer`** **`Web Developer`** **`Student`**
 
 - 🛠️ Constantly learning and building stuff.
-- 📷 If I am not on my pc, I would be outside; capturing the moments with my camera.
-- ⚔️ A passion for video games, anime and cinema taught me to seek adventure.
+- 📚 Full Stack, I guess...?
+- 🕊️ FOSS Enthusiast: [my dotfiles](https://github.com/jihedmastouri/dotfiles)
+- 📷 I like to capture moments with my camera.
+- ⚔️ Always seeking adventure and challenge; blame video games, cinema, anime...
 
-### 🧰 Languages and Tools
+### 🧰 Fav Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/python.svg?size=35&colored=true"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/go.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/csharp.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nodejs.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/typescript.svg?size=35&colored=true"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/gnubash.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/react.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nextjs.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/tailwindcss.svg?size=35&colored=true"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/hugo.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/linux.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/git.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/neovim.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/docker.svg?size=35&colored=true"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/postgresql.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/redis.svg?size=35&colored=true" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/mongodb.svg?size=35&colored=true" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/python.svg?size=35&colored=true"/>
+<img align="left" alt="Node js" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nodejs.svg?size=35&colored=true" />
+<img align="left" alt="Better JS" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/typescript.svg?size=35&colored=true"/>
+<img align="left" alt="Better Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/csharp.svg?size=35&colored=true" />
+<img align="left" alt="/bin/bash" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/gnubash.svg?size=35&colored=true" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/react.svg?size=35&colored=true" />
+<img align="left" alt="Bootstrap sucks" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/tailwindcss.svg?size=35&colored=true"/>
+<img align="left" alt="GNU/Linux" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/linux.svg?size=35&colored=true" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/git.svg?size=35&colored=true" />
+<img align="left" alt="Vim++" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/neovim.svg?size=35&colored=true" />
+<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/docker.svg?size=35&colored=true"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/postgresql.svg?size=35&colored=true" />
+<img align="left" alt="I suck at SQL" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/mongodb.svg?size=35&colored=true" />
 <br/>
 
 # 
 
 #### Where You Can Find Me:
 
-[![Website](https://img.shields.io/badge/Web%20Site-yellow?style=for-the-badge&logo=Internet+Explorer&logoColor=black)](http://example.com/)
 [![MAIL](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihed.mastouri@esprit.tn)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jihed_mastouri)
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jihedmastouri/)

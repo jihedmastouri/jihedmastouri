@@ -10,9 +10,10 @@
 
 ### 🧰 Fav Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/python.svg?size=35&colored=true"/>
-<img align="left" alt="Node js" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nodejs.svg?size=35&colored=true" />
 <img align="left" alt="Better JS" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/typescript.svg?size=35&colored=true"/>
+<img align="left" alt="Node js" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nodejs.svg?size=35&colored=true" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/go.svg?size=35&colored=true"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/python.svg?size=35&colored=true"/>
 <img align="left" alt="Better Java" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/csharp.svg?size=35&colored=true" />
 <img align="left" alt="/bin/bash" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/gnubash.svg?size=35&colored=true" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/react.svg?size=35&colored=true" />
@@ -24,9 +25,6 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/postgresql.svg?size=35&colored=true" />
 <img align="left" alt="I suck at SQL" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/mongodb.svg?size=35&colored=true" />
 <br/>
-<br/>
-
-# 
 
 #### Where You Can Find Me:
 

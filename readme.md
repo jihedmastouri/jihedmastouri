@@ -21,23 +21,19 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihedmastouri&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=vim+script)</a>
 </details>
 
-<details>
-  <summary>Fav Languages and Tools 🧰</summary>
 
-<img align="left" title="ReactJs" alt="React" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/react.svg?size=35&colored=true" />
-<img align="left" title="Tailwind CSS" alt="Bootstrap sucks" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/tailwindcss.svg?size=35&colored=true"/>
-<img align="left" title="Typescript" alt="Better JS" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/typescript.svg?size=35&colored=true"/>
-<img align="left" title="NodeJs" alt="Js Everywhere" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/nodejs.svg?size=35&colored=true" />
-<img align="left" title="Go" alt="Go" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/go.svg?size=35&colored=true"/>
-<img align="left" title="Python" alt="Python" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/python.svg?size=35&colored=true"/>
-<img align="left" title="GNU Bash" alt="/bin/bash" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/gnubash.svg?size=35&colored=true" />
-<img align="left" title="GNU Linux" alt="GNU/Linux" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/linux.svg?size=35&colored=true" />
-<img align="left" title="Git" alt="Git" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/git.svg?size=35&colored=true" />
-<img align="left" title="Vim / NeoVim" alt="Vim++" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/neovim.svg?size=35&colored=true" />
-<img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/docker.svg?size=35&colored=true"/>
-<img align="left" title="PostgresSQL" alt="Better Oracle" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/postgresql.svg?size=35&colored=true" />
-<img align="left" title="MongoDB" alt="I suck at SQL" width="30px" style="padding-right:10px;" src="https://icongr.am/simple/mongodb.svg?size=35&colored=true" />
-</details>
+## Fav Languages and Tools 🧰
+![REACT](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=302d41&logo=react&logoColor=61dbfb)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=302d41&logo=tailwindcss&logoColor=06B6D4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=302d41&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/-Node-05122A?style=for-the-badge&color=302d41&logo=node.js&logoColor=3c873a)
+![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=302d41&logo=go&logoColor=00a7d0)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=302d41&logo=linux&logoColor=dfb914)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=postgresql&logoColor=0064a5)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=302d41&logo=docker)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=302d41&logo=gnu-bash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=302d41&logo=python)
 
 
 

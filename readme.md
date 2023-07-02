@@ -14,15 +14,7 @@
 [![LinkTree](https://img.shields.io/badge/Linktree-1ce0b6?&style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/jihedmastouri)
 
 
-<details>
-  <summary>Github Stats ⚡</summary>
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jihedmastouri&theme=blueberry&count_private=true&hide_border=true&line_height=20&show_icons=true)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihedmastouri&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=vim+script)</a>
-</details>
-
-
-## Fav Languages and Tools 🧰
+---
 ![REACT](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=302d41&logo=react&logoColor=61dbfb)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=302d41&logo=tailwindcss&logoColor=06B6D4)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=302d41&logo=typescript&logoColor=007acc)

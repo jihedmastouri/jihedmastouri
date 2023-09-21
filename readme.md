@@ -3,5 +3,3 @@
 - 🛠️ Constantly learning and building stuff.
 - 📚 Full Stack (I guess...?)
 - 🕊️ FOSS Enthusiast: [my dotfiles](https://github.com/jihedmastouri/dotfiles)
-- 🤓 Vim User
-- 💻 Favorite stack: Go, TS and React.
